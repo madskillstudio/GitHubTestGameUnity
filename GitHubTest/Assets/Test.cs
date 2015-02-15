@@ -12,6 +12,6 @@ public class Test : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		print ("GITHUB IS COOOLEST THING!!!");
+		print ("GITHU7788879jjB IS COOOLEST THING!!!");
 	}
 }
